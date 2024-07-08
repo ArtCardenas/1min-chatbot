@@ -5,3 +5,6 @@ make a question answering chatbot in 1 minute with Docker, Roberta-base, and NLT
 
 
 https://www.youtube.com/shorts/A-Ae5abgMmY
+
+
+https://www.youtube.com/watch?v=-l7YocEQtA0
